@@ -1,0 +1,25 @@
+{
+  "dataset": "MatrixCity blocks 2/3/4",
+  "views": [
+    480,
+    256,
+    616
+  ],
+  "annotation_views_per_block": 16,
+  "held_out": false,
+  "ours_seeds": [
+    0,
+    1,
+    2
+  ],
+  "gaga_seeds": [
+    0
+  ],
+  "trace3d_seeds": [
+    0
+  ],
+  "evaluation": "Camera-view projections of trained models; building PQ@0.5 and pixel micro-IoU",
+  "trace3d_adapter": "Automatic prototype extraction v77 + frozen multi-view OpenCLIP; native 2D Gaussians; not official GT-query evaluation",
+  "navigation": "block4: 3 development tasks x 3 methods, experimental observation-constrained map; model coordinates; not certified physical safety",
+  "display": "Instance colors not identity-aligned across methods. Semantic panels show building and road; raw Trace3D shows all nonzero IDs."
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "block": 2,
+    "frame": "0025",
+    "source": "trace3d_comparison_v81/block2/0025.jpg",
+    "sha256": "6b69b5899f0bc9fcd2c9fbcc85dca7e0b88f2f34ab2ddea2cfb020d573385814",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0056",
+    "source": "trace3d_comparison_v81/block2/0056.jpg",
+    "sha256": "c5f725929d93b28b73b34b4e27772208b2809b7af2c9ec59270b05ba0baab293",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0065",
+    "source": "trace3d_comparison_v81/block2/0065.jpg",
+    "sha256": "d828bcd737eee73bc6f0684a9438e580af1dda8457dbe4bf045b2cc272f95f9e",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0075",
+    "source": "trace3d_comparison_v81/block2/0075.jpg",
+    "sha256": "935867039191a0eb5d6f7ccdedad3640dedcb30251fdd8d6ff81722eae64756a",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0085",
+    "source": "trace3d_comparison_v81/block2/0085.jpg",
+    "sha256": "4b3eedd5796bb0b6b41d29aa5adbea0fbde9b1206039c24577ba6f1af53a2d84",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0090",
+    "source": "trace3d_comparison_v81/block2/0090.jpg",
+    "sha256": "8249dad24689aa0337f167c6d4ebc160012eda7b8aac66b7c7e14563dd7c487d",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0105",
+    "source": "trace3d_comparison_v81/block2/0105.jpg",
+    "sha256": "bff21988da2bd4e529304d6f42a8cbba34a3899f4f53189278fecc17c6fd0320",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0115",
+    "source": "trace3d_comparison_v81/block2/0115.jpg",
+    "sha256": "312e21b03c4079b07ee897dcabbb7da7abd26d8067586b8735a6e8f5287ed803",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0117",
+    "source": "trace3d_comparison_v81/block2/0117.jpg",
+    "sha256": "114350181215a7490db5695c939a422b3ec344b417ca2aa4a68de6101feff679",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0305",
+    "source": "trace3d_comparison_v81/block2/0305.jpg",
+    "sha256": "5840b17ea964d9bf7d8edc5d4339c7129c961498469fc89b3bbfcc6433816440",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0345",
+    "source": "trace3d_comparison_v81/block2/0345.jpg",
+    "sha256": "1b8fb32d55c61cfec086717ddd95801ba97b8ebd26226d2be0b51dff60d1525f",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0352",
+    "source": "trace3d_comparison_v81/block2/0352.jpg",
+    "sha256": "a269acc82b3a7454ef345236ebbbb4a8d91bd392259ed4376399b3bfc913067c",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0385",
+    "source": "trace3d_comparison_v81/block2/0385.jpg",
+    "sha256": "930fa901fee12d1f6a693032e86b4763bd10bb94c649617e49b37b9aed63b351",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0395",
+    "source": "trace3d_comparison_v81/block2/0395.jpg",
+    "sha256": "6e3920ceafbd628c559b180bf75cf013dfb777b02bd9c082557818591ca2763a",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0425",
+    "source": "trace3d_comparison_v81/block2/0425.jpg",
+    "sha256": "afc0ad1153e78cd56e68475cf3a48e4a44e1acda88cf9171fc96eac7fc793f9d",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 2,
+    "frame": "0475",
+    "source": "trace3d_comparison_v81/block2/0475.jpg",
+    "sha256": "36c60539ddb6972c54bfe8eb2c35060129285dd5fc54e3f1dc315f1c8afd5511",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0002",
+    "source": "trace3d_comparison_v81/block3/0002.jpg",
+    "sha256": "43a0bb0c8f2ba27db91def11e08e62df0212d71ce6f574923c7575aa67c852df",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0012",
+    "source": "trace3d_comparison_v81/block3/0012.jpg",
+    "sha256": "80fcafe5f6c66266c84133a54ff51fe5d38e653e4045e7e7dcaa3ba9f69b7642",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0017",
+    "source": "trace3d_comparison_v81/block3/0017.jpg",
+    "sha256": "25017d20e476e66088cea19df4e913da4e69e66b84de599b738fb1c6bc914732",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0027",
+    "source": "trace3d_comparison_v81/block3/0027.jpg",
+    "sha256": "2470f0677f1c01cff171f5ccc997e8e359d20a8f6c103abeac83d3f58361dcd9",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0032",
+    "source": "trace3d_comparison_v81/block3/0032.jpg",
+    "sha256": "f263b4cd272da77af98584271a9f54b7724835bc111b70a14b0ec7edae332eb2",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0037",
+    "source": "trace3d_comparison_v81/block3/0037.jpg",
+    "sha256": "1bc6637114304d7589b26fcbc8d1f0c3fcf5a72f5c7d4c8feb03bfcae555dd57",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0052",
+    "source": "trace3d_comparison_v81/block3/0052.jpg",
+    "sha256": "f4adc943a3f8d51c87adfa5cd8dd79bb76798c3f75f3abca79c9d273e21c9793",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0112",
+    "source": "trace3d_comparison_v81/block3/0112.jpg",
+    "sha256": "ce0c2e8b99804c1770563228a4b48d06f46ca9a29a7ed2430d4c368b1082419a",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0177",
+    "source": "trace3d_comparison_v81/block3/0177.jpg",
+    "sha256": "698a97b5c903a3b13a9c51f41dc7d0e1c14b138e96145220abcca46ebf40c4ac",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0192",
+    "source": "trace3d_comparison_v81/block3/0192.jpg",
+    "sha256": "fb89dfd3f4512288041c97aed09d20b970752a7ca808ad115e3af370c64f7980",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0202",
+    "source": "trace3d_comparison_v81/block3/0202.jpg",
+    "sha256": "af4414e827861c701532df2f032f5d9635ec4e3ad45d384f8b779148ed195454",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0217",
+    "source": "trace3d_comparison_v81/block3/0217.jpg",
+    "sha256": "40ed648891d5845a08eb73f15bbeebcc13bba3eddbb1b84111669187b6537be8",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0227",
+    "source": "trace3d_comparison_v81/block3/0227.jpg",
+    "sha256": "1d21e5c309832ba45232f74f5b56788c8aeaa7002dc68d8bfd3778563e84cbc0",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0237",
+    "source": "trace3d_comparison_v81/block3/0237.jpg",
+    "sha256": "a266da1373723e7b8535eb9feb239fbc5f2a98754631a8bfd47c21ed9fdd25ef",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0247",
+    "source": "trace3d_comparison_v81/block3/0247.jpg",
+    "sha256": "68a6941a8ed369908080ddf4e06955912de737c2037ad28b77acfe0cab57d265",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 3,
+    "frame": "0252",
+    "source": "trace3d_comparison_v81/block3/0252.jpg",
+    "sha256": "a60101f00a9f1afa3e86f007a44a329a5a3898c69e41789fce6311ca3e8ade01",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0000",
+    "source": "trace3d_comparison_v81/block4/0000.jpg",
+    "sha256": "070ff89231241d053eec370abd0826bef39a0ce0c375e748af75aa3acb567f89",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0041",
+    "source": "trace3d_comparison_v81/block4/0041.jpg",
+    "sha256": "17a160198244cb0f7aa8183a097f4a7243248f3a09f1c0fda39fdeb230e19294",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0082",
+    "source": "trace3d_comparison_v81/block4/0082.jpg",
+    "sha256": "e710c127df0caea68937a9ed57e8800b3731b577ebbc6edd16631bee3da64761",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0123",
+    "source": "trace3d_comparison_v81/block4/0123.jpg",
+    "sha256": "89f469004777465c349e6f96619cee63ee9c2b0e6426bb4294bcb686b004e660",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0164",
+    "source": "trace3d_comparison_v81/block4/0164.jpg",
+    "sha256": "148b46646484179e5299322b35f37012b3f10e44011cb426563fbc31ff34cabf",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0205",
+    "source": "trace3d_comparison_v81/block4/0205.jpg",
+    "sha256": "97263a4e8e438e0ec54e80bc20d709fa795455c1a9bd51256e3e229e9b024a3d",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0246",
+    "source": "trace3d_comparison_v81/block4/0246.jpg",
+    "sha256": "3c6670f30b1f41c5e949135b85add6282646030b04e3eca326197ed4379b97d1",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0287",
+    "source": "trace3d_comparison_v81/block4/0287.jpg",
+    "sha256": "ec92f39ca02df407b3d12e0f0fc8408ccdaa6f0ee6ceca7e0cc88cc70e9e0240",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0328",
+    "source": "trace3d_comparison_v81/block4/0328.jpg",
+    "sha256": "8bacdea45deea58acc967e0be54d212532ad46a11f059bf401ac7f6e5e6ddc12",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0369",
+    "source": "trace3d_comparison_v81/block4/0369.jpg",
+    "sha256": "c2b2697172fcf0c60e258bad10bafd7cf9fdc61d8085443615c34f04f7442cf9",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0410",
+    "source": "trace3d_comparison_v81/block4/0410.jpg",
+    "sha256": "b7b25d3b51a9dcbb161832df5c1952bb6e221a7516deddf46b2b751b632e66b9",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0451",
+    "source": "trace3d_comparison_v81/block4/0451.jpg",
+    "sha256": "79777ba1025c05b57d34150a0c9842dc609d7f05d0d0472adc18f7efb64d4cf0",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0492",
+    "source": "trace3d_comparison_v81/block4/0492.jpg",
+    "sha256": "296d101ade053fe1a8163174d7307ab6779f4fed3b53ec6dc582871f3ef83baa",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0533",
+    "source": "trace3d_comparison_v81/block4/0533.jpg",
+    "sha256": "f3569bfa2560d649df58cb9249e938679ba814cb1f263e363cef902806eea521",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0574",
+    "source": "trace3d_comparison_v81/block4/0574.jpg",
+    "sha256": "b8230c0dd31d451d1d69846fe514905142f48ac3707410a207fb64efd910c06c",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "block": 4,
+    "frame": "0615",
+    "source": "trace3d_comparison_v81/block4/0615.jpg",
+    "sha256": "c5316d461f8c9bbce889f5dbdc98816581f53a9e07fa55d246ff6f83e3a48779",
+    "transform": "Exact 960x540 panel extraction, WebP encoding; no mask filtering or relabeling"
+  },
+  {
+    "source": "block4_navigation_figures_v66/task00/side_oblique_tiles.png",
+    "sha256": "1e216339ec1365369ec530feb5865c46d3aabde7e846cc4ee9dcb536a86707a5",
+    "output": "nav/route-0.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_route_heights_v66/block0_height_views.png",
+    "sha256": "f2b3bd71a4ce578904cd6a365b0868ec486d1cef1bac98cb4aaaa091296660b9",
+    "output": "nav/height-0.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_navigation_figures_v66/task01/side_oblique_tiles.png",
+    "sha256": "6f29cbe80d67f57663a4709784b03f2473f69a254431da73ff5280a66df0cb03",
+    "output": "nav/route-1.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_route_heights_v66/block1_height_views.png",
+    "sha256": "efb6fce1edbe986278b7cd080e97650a27748a20dc642ed2e0a3c9f4a6f4050d",
+    "output": "nav/height-1.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_navigation_figures_v66/task02/side_oblique_tiles.png",
+    "sha256": "4d377e00b222885b3a1af837800e28c1810e4ef2953208ed32defe664c2e2338",
+    "output": "nav/route-2.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_route_heights_v66/block2_height_views.png",
+    "sha256": "d75a62c897122a3d7188b36cb13a4352ef228fcf76add4bb75c6f3188271bb4b",
+    "output": "nav/height-2.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_navigation_v66/map_layers.png",
+    "sha256": "fa8fcd877bde4669fcdafbe70905c94a6583ef8ea9d4e0f498fda36fb69d62d5",
+    "output": "nav/map.webp",
+    "transform": "resize and WebP encoding only"
+  },
+  {
+    "source": "block4_geometry_preview_v32/0000_comparison_30000.jpg",
+    "sha256": "67fdfe5c83eb900807accebd9460ad1ea6b7002b6d315cafa39a15673cc8c333",
+    "output": "reconstruction.webp",
+    "transform": "resize and WebP encoding only"
+  }
+]

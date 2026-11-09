@@ -1,0 +1,19 @@
+﻿block,method,building_IoU_percent,road_IoU_percent,building_PQ_percent,training
+2,gg,32.08,23.21,9.08,30k · 单模型
+2,global,70.09,52.95,14.73,30k · 3 seeds
+2,ours,73.0,51.4,15.1,30k · 3 seeds
+2,ours_clip,72.51,50.0,15.54,30k · 3 seeds
+2,gaga,78.22,5.12,27.68,10k · seed0
+2,trace,56.69,38.14,0.66,20k contrastive · seed0
+3,gg,41.16,12.78,10.54,30k · 单模型
+3,global,81.01,40.51,57.21,30k · 3 seeds
+3,ours,82.71,43.26,59.12,30k · 3 seeds
+3,ours_clip,68.95,13.66,58.37,30k · 3 seeds
+3,gaga,70.84,9.16,42.46,10k · seed0
+3,trace,64.11,35.01,0.63,20k contrastive · seed0
+4,gg,48.92,7.47,8.82,30k · 3 seeds
+4,global,70.87,21.0,23.03,30k · 3 seeds
+4,ours,74.9,24.17,25.25,30k · 3 seeds
+4,ours_clip,70.92,24.27,25.01,30k · 3 seeds
+4,gaga,69.91,20.09,36.51,10k · seed0
+4,trace,56.75,24.37,0.98,20k contrastive · seed0
